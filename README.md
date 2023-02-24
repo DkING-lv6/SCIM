@@ -1,3 +1,6 @@
+# Paper details
+Detailed parameter settings and implementation can be found in "Paper details of SCIM.pdf"
+
 # Code for SCIM
 This repository is based on [ReMERT-pytorch](https://github.com/AIDefender/MyDiscor)[1]. 
 
