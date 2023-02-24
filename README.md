@@ -2,7 +2,7 @@
 This repository is based on [ReMERT-pytorch](https://github.com/AIDefender/MyDiscor)[1]. 
 
 SCIM contains two weights:
-1. SCIM_ho  The corresponding code can be found in "SCIM/discor/algorithm/discor.py"
+1. SCIM_si  The corresponding code can be found in "SCIM/discor/algorithm/discor.py"
 2. SCIM_im  The corresponding code can be found in "SCIM/discor/algorithm/discor.py" and "SCIM/discor/network.py"
 
 ## Setup (refer to DisCor[2])
