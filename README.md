@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 If you're using other than CUDA 10.2, you need to install PyTorch for the proper version of CUDA. See [instructions](https://pytorch.org/get-started/locally/) for more details.
 
-# Training
+## Training
 
 ```bash
 python train.py --cuda --env_id Ant-v2 --config config/mujoco.yaml --num_steps 1000000 --algo discor --lfiw --seed 10000
